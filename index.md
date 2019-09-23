@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+**LINUX-TUTORIALS**
 
-You can use the [editor on GitHub](https://github.com/shoroq03/linux_tutorials/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In this leacture we will learn how to use terminal 
+1. *the command line*
+is an interesting beast, and if you've not used one before, can be a bit daunting.
+*So what are they exactly?*
+*A command line*, or *terminal*, is a text based interface to the system. 
+You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shoroq03/linux_tutorials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+! [https://www.howtogeek.com/wp-content/uploads/2017/05/cpa_top.png.pagespeed.ce.3Y_HpoM4Rr.png]
