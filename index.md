@@ -1,5 +1,12 @@
 **LINUX-TUTORIALS**
 
+# Text editor 
+ 
+*text editor* is program that allows you to open, view, and edit plain text files. Unlike word processors, text editors do not add formatting to text, instead focusing on editing functions for plain text.
+
+
+ 
+
 In this leacture we will learn how to use terminal 
 1. *the command line*
 is an interesting beast, and if you've not used one before, can be a bit daunting.
