@@ -20,4 +20,11 @@ You are able to enter commands by typing them on the keyboard and feedback will 
 
 2. *Basic Navigation* 
 
-we write the basic navigtion in terminal
+
+# we write the basic navigtion in terminal
+ * pwd
+Print Working Directory - ie. Where are we currently.
+* ls
+List the contents of a directory.
+* cd
+Change Directories - ie. move to another directory
