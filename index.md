@@ -19,3 +19,5 @@ is an interesting beast, and if you've not used one before, can be a bit dauntin
 You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 
 2. *Basic Navigation* 
+
+we write the basic navigtion in terminal
